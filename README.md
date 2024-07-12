@@ -1,2 +1,2 @@
-# mobaly-issue-tracker
-Public issue tracker for Mobaly
+# moopoly-issue-tracker
+Public issue tracker for Moopoly
